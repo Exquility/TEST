@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 李蔚苧
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wenny
+last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postgraduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Sun Yat-sen University
+    url: https://www.sysu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,81 +47,55 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Regulation of cell signaling pathways by post-translational modifications (PTM)
+  - The function of autophagy in immune regulation
+  - Communication between immune cells
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Biochemistry and Molecular Biology
+    institution: Sun Yat-sen University
+    date_start: 2023-09-01
+    date_end: 2025-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
+    
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Cellular and Molecular Immunology (90/100)
+      - Topics in Cell Signaling (97/100)
+      - Physiology of Epithelial Cells (97/100)
+      - Experimental Design and Statistical Analysis (94/100), etc
+  - area: BSc Biotechnology
+    institution: Sun Yat-sen University
+    date_start: 2019-09-01
+    date_end: 2023-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Cell Biology (93/100)
+      - Biochemistry (95/100)
+      - Principles of Immunology (96/100)
+      - Experiments of Cell Biology (94/100)
+      - Experiments of Biochemistry (94/100)
+      - Experimental Skills in Molecular Biology (94/100)
+      - Experiments of Immunology (97/100)
+      - Experiments of Biotechnology (95/100)
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Molecular biology techniques
+        description: DNA cloning and plasmid construction, gene editing (utilizing CRISPR/Cas9 system), qPCR, Western blot, immunoprecipitation, subcellular fractionation, ELISA, etc.
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Cellular biology techniques
+        description: cell culture, cell line construction, transfection, immunofluorescence, confocal/super-resolution fluorescence microscopy, electron microscopy, flow cytometry, etc.
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: Animal experimentation and procedures
+        description: genotyping, breeding, injections, blood collection, BMDM extraction, induction of DSS colitis model, etc.
         percent: 40
         icon: circle-stack
   - name: Hobbies
@@ -142,13 +116,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Mandarin 
     percent: 100
-  - name: Chinese
+  - name: Cantonese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -183,4 +156,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+wo shi yi ge xiao wang ba
+
