@@ -84,19 +84,19 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - - name: Technical Skills
+skills: 
+  - name: Technical Skills
     items:
       - name: Molecular biology techniques
-        description: DNA cloning and plasmid construction, gene editing (utilizing CRISPR/Cas9 system), qPCR, Western blot, immunoprecipitation, subcellular fractionation, ELISA, etc.
+        description: DNA cloning and plasmid construction, gene editing (utilizing CRISPR/Cas9 system), qPCR, Western blot, immunoprecipitation, etc.
         percent: 80
         icon: code-bracket
       - name: Cellular biology techniques
-        description: cell culture, cell line construction, transfection, immunofluorescence, confocal/super-resolution fluorescence microscopy, electron microscopy, flow cytometry, etc.
+        description: Cell culture, cell line construction, transfection, immunofluorescence, confocal/super-resolution fluorescence microscopy, electron microscopy, flow cytometry, etc.
         percent: 100
         icon: chart-bar
       - name: Animal experimentation and procedures
-        description: genotyping, breeding, injections, blood collection, BMDM extraction, induction of DSS colitis model, etc.
+        description: Genotyping, breeding, injections, blood collection, BMDM extraction, induction of DSS colitis model, etc.
         percent: 40
         icon: circle-stack
   - name: Hobbies
