@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-   - Regulation of cell signaling pathways by post-translational modifications (PTM)
+  - Regulation of cell signaling pathways by post-translational modifications (PTM)
   - The function of autophagy in immune regulation
   - Communication between immune cells
 
