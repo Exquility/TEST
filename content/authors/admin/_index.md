@@ -52,51 +52,34 @@ interests:
   - Communication between immune cells
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Biochemistry and Molecular Biology
+    institution: Sun Yat-sen University
+    date_start: 2023-09-01
+    date_end: 2025-06-31
     summary: |
-      GPA: 3.8/4.0
-
+    
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Cellular and Molecular Immunology (90/100)
+      - Topics in Cell Signaling (97/100)
+      - Physiology of Epithelial Cells (97/100)
+      - Experimental Design and Statistical Analysis (94/100), etc
+  - area: BSc Biotechnology
+    institution: Sun Yat-sen University
+    date_start: 2019-09-01
+    date_end: 2023-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Cell Biology (93/100)
+      - Biochemistry (95/100)
+      - Principles of Immunology (96/100)
+      - Experiments of Cell Biology (94/100)
+      - Experiments of Biochemistry (94/100)
+      - Experimental Skills in Molecular Biology (94/100)
+      - Experiments of Immunology (97/100)
+      - Experiments of Biotechnology (95/100)
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
