@@ -85,18 +85,18 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Molecular biology techniques
+        description: DNA cloning and plasmid construction, gene editing (utilizing CRISPR/Cas9 system), qPCR, Western blot, immunoprecipitation, subcellular fractionation, ELISA, etc.
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Cellular biology techniques
+        description: cell culture, cell line construction, transfection, immunofluorescence, confocal/super-resolution fluorescence microscopy, electron microscopy, flow cytometry, etc.
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: Animal experimentation and procedures
+        description: genotyping, breeding, injections, blood collection, BMDM extraction, induction of DSS colitis model, etc.
         percent: 40
         icon: circle-stack
   - name: Hobbies
