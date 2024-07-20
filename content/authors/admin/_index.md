@@ -54,8 +54,8 @@ interests:
 education:
   - area: MSc Biochemistry and Molecular Biology
     institution: Sun Yat-sen University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09-01
+    date_end: 2025-06-01
     summary: |
       GPA: 3.8/4.0
 
@@ -65,8 +65,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Biotechnology
     institution: Sun Yat-sen University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-09-01
+    date_end: 2023-06-01
     summary: |
       GPA: 3.4/4.0
       
