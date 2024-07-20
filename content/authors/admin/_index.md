@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+   - Regulation of cell signaling pathways by post-translational modifications (PTM)
+  - The function of autophagy in immune regulation
+  - Communication between immune cells
 
 education:
   - area: PhD Artificial Intelligence
