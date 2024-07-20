@@ -117,7 +117,7 @@ skills:
         icon: camera
 
 languages:
-   - name: Mandarin 
+  - name: Mandarin 
     percent: 100
   - name: Cantonese
     percent: 100
