@@ -60,16 +60,6 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
-    content:
-      title: Techniques
-      filters:
-        folders:
-          - technique
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
     id: news
     content:
       title: Recent News
