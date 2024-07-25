@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Techniques
+summary: Experimental techniques sharing
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: techniques
     content:
-      title: Teaching
+      title: Techniques
       filters:
         folders:
-          - teaching
+          - techniques
     design:
       view: article-grid
       columns: 2
