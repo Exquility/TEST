@@ -16,6 +16,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Tequiniques
-    url: tequiniques/
+  - name: Techniques
+    url: techniques/
     weight: 40
